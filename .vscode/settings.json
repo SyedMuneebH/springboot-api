@@ -1,3 +1,33 @@
 {
-  "explorer.autoReveal": true
+    "redhat.telemetry.enabled": false,
+    "editor.inlineSuggest.edits.showCollapsed": true,
+    "github.copilot.nextEditSuggestions.extendedRange": true,
+    "github.copilot.editor.enableAutoCompletions": false,
+    "editor.inlineSuggest.enabled": false
 }
+
+
+
+
+
+//{
+  // "explorer.autoReveal": true,
+  // "editor.quickSuggestions": {
+  //   "comments": "off",
+  //   "strings": "off",
+  //   "other": "off"
+  // },
+  // "editor.inlineSuggest.enabled": false,
+  // "editor.suggest.enabled": false,
+  // "editor.suggest.showSnippets": false,
+  // "editor.suggest.showMethods": false,
+  // "editor.suggest.showFunctions": false,
+  // "editor.suggest.showVariables": false,
+  // "editor.suggest.showClasses": false,
+  // "editor.suggest.showInterfaces": false,
+  // "editor.suggest.showModules": false,
+  // "editor.suggest.showKeywords": false,
+  // "editor.suggest.showEnums": false,
+  // "editor.suggest.showOperators": false,
+  // "editor.acceptSuggestionOnCommitCharacter": false
+//}
