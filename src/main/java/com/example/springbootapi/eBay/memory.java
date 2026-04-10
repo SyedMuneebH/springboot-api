@@ -41,7 +41,7 @@ public class memory {
     }
 
     public void set(String key, String field, String value) {
-        if (!map.containsKey(key)) {
+        if (!map.containsKey(key )) {
             map.put(key, new HashMap<>());
         }
 
